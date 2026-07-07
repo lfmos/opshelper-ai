@@ -1,3 +1,13 @@
+"""
+OpsHelper AI
+
+Módulo responsável pelo gerenciamento da base de conhecimento.
+
+Este arquivo realiza o carregamento do arquivo JSON contendo
+as informações utilizadas pelo assistente para responder às
+perguntas do usuário.
+"""
+
 import json
 import os
 
