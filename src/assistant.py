@@ -1,3 +1,13 @@
+"""
+OpsHelper AI
+
+Módulo responsável pela lógica do assistente.
+
+Este arquivo recebe a pergunta do usuário, consulta a base de
+conhecimento e retorna a resposta mais adequada com base nas
+palavras-chave identificadas.
+"""
+
 from src.knowledge import carregar_base_conhecimento
 
 
