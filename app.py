@@ -17,7 +17,13 @@ def iniciar_assistente():
     print("=" * 50)
 
     print("\nDigite sua dúvida técnica.")
-    print("Digite 'sair' para encerrar.\n")
+    print("\nExemplos de perguntas:")
+    print("- Erro de permissão SSH")
+    print("- Problemas com Docker")
+    print("- Acesso à instância EC2")
+    print("- Dúvidas sobre Git")
+    print("- Problemas de rede")
+    print("\nDigite 'sair' para encerrar.\n")
 
 
     while True:

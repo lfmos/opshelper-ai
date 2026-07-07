@@ -39,6 +39,10 @@ def encontrar_palavras_chave(texto):
 
 
 def buscar_resposta(pergunta):
+    """
+    Busca a melhor resposta para a pergunta do usuário
+    utilizando a base de conhecimento.
+    """
 
     base = carregar_base_conhecimento()
 
