@@ -1,3 +1,12 @@
+"""
+OpsHelper AI
+
+Arquivo principal da aplicação.
+
+Responsável por iniciar a interação entre o usuário
+e o assistente virtual.
+"""
+
 from src.assistant import buscar_resposta
 
 
