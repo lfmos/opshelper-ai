@@ -1,0 +1,2 @@
+# Este projeto utiliza apenas bibliotecas nativas do Python.
+# Nenhuma dependência externa é necessária para executar a aplicação.
